@@ -22,11 +22,13 @@
 
 ## Results
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/16244455/135728131-b300e540-321a-454c-9b10-839cb9719175.png)
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. Launching a campaign between May and June is more likely to see a successful campaign
 2. Launching a campaign in December is not ideal as it’s the only month where the amount of failed campaigns is close to the amount of successful campaigns.
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/16244455/135728145-076b2e56-1860-4e6a-a173-301be99041e7.png)
 
 - What can you conclude about the Outcomes based on Goals?
 1. Don't launch anything above a $45000 goal
